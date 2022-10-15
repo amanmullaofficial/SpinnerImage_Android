@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spinner_Image_Android</string>
+    <string name="todo">TODO</string>
+    <string-array name="images">
+        <item>MR.ROBOT</item>
+        <item>Lucifer</item>
+        <item>Paul Walker</item>
+        <item>Supra</item>
+    </string-array>
+</resources>
